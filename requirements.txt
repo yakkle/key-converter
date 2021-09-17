@@ -1,0 +1,2 @@
+cryptography~=3.2.1
+eth_keyfile~=0.5.1
